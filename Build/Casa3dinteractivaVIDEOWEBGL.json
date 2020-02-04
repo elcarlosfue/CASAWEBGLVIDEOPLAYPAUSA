@@ -1,0 +1,13 @@
+{
+"companyName": "Casa-Interactiva-3D",
+"productName": "Casa-Interactiva-3D",
+"dataUrl": "Casa3dinteractivaVIDEOWEBGL.data.unityweb",
+"wasmCodeUrl": "Casa3dinteractivaVIDEOWEBGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Casa3dinteractivaVIDEOWEBGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 480000000,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}
