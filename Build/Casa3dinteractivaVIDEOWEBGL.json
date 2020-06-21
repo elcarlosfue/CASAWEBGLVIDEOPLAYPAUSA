@@ -4,7 +4,7 @@
 "dataUrl": "Casa3dinteractivaVIDEOWEBGL.data.unityweb",
 "wasmCodeUrl": "Casa3dinteractivaVIDEOWEBGL.wasm.code.unityweb",
 "wasmFrameworkUrl": "Casa3dinteractivaVIDEOWEBGL.wasm.framework.unityweb",
-"TOTAL_MEMORY": 480000000,
+"TOTAL_MEMORY": 520000000,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Light",
